@@ -6,11 +6,7 @@
 
 ---
 
-## Who We Are
-
-OneCareAI aims to make stroke **predictable and preventable**. By transforming basic health data into deep, actionable insights using AI, we empower individuals and clinicians to act before it's too late.
-
-We integrate **artificial intelligence, wearable devices, and ECG data** to detect stroke risk early — especially in people who might not be flagged by conventional risk assessments.
+We imagine a new era in healthcare by integrating **artificial intelligence**, **wearable devices**, and **ECG data** to detect stroke risk early–especially in people who might not be flagged by conventional risk assessments.
 
 ---
 
