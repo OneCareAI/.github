@@ -1,4 +1,6 @@
-<h1 align="center">OneCareAI</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OneCareAI/.github/main/profile/onecareai.png" alt="OneCareAI" width="480"/>
+</p>
 
 <h3 align="center">Predict. Prevent. Protect.</h3>
 
@@ -14,23 +16,17 @@ We integrate **artificial intelligence, wearable devices, and ECG data** to dete
 
 ## What We Offer
 
-**AI-Powered Health Monitoring**
-Real-time tracking of patient health, identifying early signs of deterioration and automating risk detection through continuous analysis of biometric and clinical data.
+- **AI-Powered Health Monitoring**
 
-**Clinical Decision Support**
-AI tools that analyze patient history, symptoms, and test results to generate actionable insights — reducing cognitive load and helping clinicians make faster, safer decisions.
+- **Clinical Decision Support**
 
-**Multi-Omics Integration**
-Combining genetics, physiology, and lifestyle data to build a richer picture of individual risk.
+- **Patient Engagement Tools**
 
-**Data Analytics & Population Health**
-Turning raw data into actionable insights that help healthcare organizations identify care gaps and improve outcomes at scale.
+- **Data Analytics & Population Health**
 
-**Patient Engagement Tools**
-Intuitive platforms that empower patients to better manage their health through personalized content and conversational interfaces.
+- **Secure Cloud Infrastructure**
 
-**Secure Cloud Infrastructure**
-Scalable, compliant cloud computing ensuring reliable access to healthcare solutions anytime, anywhere.
+- **Cloud Computing**
 
 ---
 
