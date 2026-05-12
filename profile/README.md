@@ -12,23 +12,20 @@ We imagine a new era in healthcare by integrating **artificial intelligence**, *
 
 ## What We Offer
 
-- **AI-Powered Health Monitoring**
+<p align="center">
+AI-Powered Health Monitoring · Clinical Decision Support · Patient Engagement Tools · Data Analytics & Population Health 
+</p>
 
-- **Clinical Decision Support**
-
-- **Patient Engagement Tools**
-
-- **Data Analytics & Population Health**
-
-- **Secure Cloud Infrastructure**
-
-- **Cloud Computing**
+<p align="center">
+Secure Cloud Infrastructure · Cloud Computing
+</p>
 
 ---
 
 ## Who We Serve
-
+<p align="center">
 Hospitals · Clinicians · Insurance Companies · Pharma · Health Tech & EHR Vendors · Academic & Research Institutions
+</p>
 
 ---
 
